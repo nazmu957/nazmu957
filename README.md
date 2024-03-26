@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://endearing-centaur-251632.netlify.app/](https://endearing-centaur-251632.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nazmus-sakib-portfolio.netlify.app/](https://nazmus-sakib-portfolio.netlify.app/)
 
 - 💬 Ask me about **react, mongoDb, Node.JS**
 
